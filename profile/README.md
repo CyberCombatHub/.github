@@ -1,12 +1,7 @@
-## Hi there 👋
+## Cyber Combat Hub
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 目标
+> 红队武器库建设和研发
+- ics-shell: 基于实战环境下的红队RAT工具，让工具始于实战、用于实战，不断积累实战经验和实战性优化。
+- ics-snipe: 高危漏洞快速利用工具，用于常见漏洞、高危漏洞、0day漏洞的储备及一键检测和利用。
+- 未知武器库（待研发）
